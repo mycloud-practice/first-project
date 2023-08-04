@@ -1,7 +1,7 @@
 public class FirstJava 
 {
-	public static void main (strings[] args)
+	public static void main (Strings[] args)
 	{
-	system.out.println("Hello! welcome to Jenkins!");
+	System.out.println("Hello! welcome to Jenkins!");
 	}
 }
